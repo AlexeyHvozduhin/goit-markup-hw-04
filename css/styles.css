@@ -172,7 +172,7 @@ img {
       rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)
     ),
-    url(./images/HeroIm.jpg);
+    url(../images/HeroIm.jpg);
   background-repeat: no-repeat;
   background-size: 1440px;
   background-position: 50%;
